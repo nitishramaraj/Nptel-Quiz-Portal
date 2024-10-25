@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "question": "The 21st Century’s knowledge – based economy & knowledge society need to bring transformational innovation in education through the following except ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "21st century’s skill – based curricula",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "innovative assessment tools",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "techno‐based & learner centered pedagogy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "increasing difficulty of entrance tests",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Which of the following statements is not true for the new paradigms of education?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "advocates for “No child left behind” Act",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "recommends for personalized learning assistance",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "aims to make education more authority and administration centric",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "advocates for quality education to all",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "The process in which a tutor or facilitator simplifies elements of tasks to make them within reach of learners to bridge their current knowledge to more sophisticated learning stage is called ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Scaffolding",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Metacognition",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Self-regulated learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Intuitive learning",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Metacognition occurs ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "before the cognitive event",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "after the cognitive event",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "along with the cognitive event",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "can occur before, after or along the cognitive event",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Under the principles for designing cognitive apprenticeship environments, ___ method refers to the one where teacher enables students to compare their performance with others.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "exploration",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "coaching",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "modeling",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "reflection",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Under the principles for designing cognitive apprenticeship environments, ___ aspect of content refers to the general approaches for directing one’s solution process.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "domain knowledge",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "heuristic strategies",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "learning strategies",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "control strategies",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Which of the following statements is not true for experiential learning?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "can be based on both real work and life experiences",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "does not apply to soft skills",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "can be based on structured experiences that simulate or approximate real life",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "can be used for all domains",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "___ is the extent to which team members’ personal benefits & costs depend on successful goal attainment by other members.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Outcome interdependence",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Group potency",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Constructive conflict",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Psychological safety",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Problem based learning processes stimulate students’ intrinsic interest in the subject matter through various components. Which of the following is not one of them?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Theory building",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Cumulative reasoning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Recall of information",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Cognitive conflicts leading to conceptual rigidity",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Which of the following statements is not true for Mobile-assisted Seamless Learning?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "It is cross time & locations",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "It encompasses only the digital world and not the physical world",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "There is a ubiquitous access to learning resources",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "It combines the use of multiple device types like tablets and phones",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  }
+]

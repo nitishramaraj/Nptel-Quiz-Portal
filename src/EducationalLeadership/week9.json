@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following statements is true?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Education reflects only the present",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Education only anticipates the future",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Education only reflects the past",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Education both reflects what is now and anticipates what is next",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "Education both reflects what is now and anticipates what is next"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "The ___ approach is a combination of synchronous and asynchronous teaching and learning modality",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "mixed",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "synthetic",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "synchronized",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "blended",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "blended"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Students learning at their own pace in different times and spaces is ___ learning.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Blended",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Synchronous",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Focused",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Asynchronous",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "Asynchronous"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Learning outcomes in the form of ___ are the major measures of the teaching and learning in basic education.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "knowledge",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "skills",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "attitudes",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "all of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "all of the given"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Which of the following was not a teacher’s role in the new normal?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "should be available online at all times to address the queries",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "must ignore students who choose to not participate",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "must initiate virtual learning activities",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "must focus on customized problem solving based on individual needs",
+        "isCorrect": false,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "B",
+        "text": "must ignore students who choose to not participate"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "The 3Cs in the context of pedagogy for the new normal includes the following dimensions except ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "consistency",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "community",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "creativity",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "competition",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "competition"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "___ is a state of being absorbed in a task.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "flow",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "exploration",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "drain",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "optimism",
+        "isCorrect": false,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "A",
+        "text": "flow"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is not a phase of the 5E framework of online flipped classes?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "explore",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "explain",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "elaborate",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "excite",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "excite"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "___ is an approach to teaching and learning that creates feedback which is then used to improve students’ performance.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Assessment for learning",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Action for learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Feedback for learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Attention for learning",
+        "isCorrect": false,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "A",
+        "text": "Assessment for learning"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is not a characteristic of summative assessment?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Highly specific and individual",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Highly structured and rigid",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Knowledge and comprehension learning is emphasized",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Conducted after instruction",
+        "isCorrect": false,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "A",
+        "text": "Highly specific and individual"
+      }
+    ]
+  }
+]

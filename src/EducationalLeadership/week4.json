@@ -1,0 +1,322 @@
+[
+  {
+    "id": 0,
+    "question": "According to the ability model, emotional intelligence consists of ___ abilities.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "five",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "four",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "three",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "seven",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "The ability model considers emotions as sources of ___ which help individuals respond appropriately to the social context.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "information",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "inspiration",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "happiness",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "social security",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "The ability of ___ refers to the ability to detect & read emotions in self.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "managing emotions",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "understanding emotions",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "using emotions",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "perceiving emotions",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Daniel Goleman has given the ___ model of emotional intelligence?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "ability",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "mixed",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "leadership",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "personality",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "___ is the ability to put oneself in others’ shoes and understand their emotions.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Emotional regulation",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Self-awareness",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Emotional labor",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Empathy",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "___ leadership style demands compliance.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "affiliative",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "democratic",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "coercive",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "coaching",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "‘Come with me’ is the message given by ___ leadership style.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "coaching",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "authoritative",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "democratic",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "affiliative",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Idealized influence and intellectual stimulation are intelligence traits of ___ leadership.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "transformational",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "emotional",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "social",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "transactional",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "There are two types of emotional regulation, ___ focused and ___ focused.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "deep, surface",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "sympathy, empathy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "antecedent, response",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "process, outcome",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "___ is a process by which emotions shared across a group in a social context.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Emotional regulation",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Emotional labour",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Emotional contagion",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Emotional intelligence",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  }
+]

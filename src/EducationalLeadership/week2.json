@@ -1,0 +1,322 @@
+[
+  {
+    "id": 0,
+    "question": "Professional Development ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "is a static process",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "spans throughout one’s career",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "is independent of the work environment & role‐perception relationship",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "does not cater to the phase of retirement",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "CPD should focus on ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "conferences and seminars",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "guided and formal learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "only activities catering to work",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "salaries",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Professional Education is concerned with 3 main aspects of development. Which of the following is not one of them?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Professional knowledge base",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Development of reflection, a critical awareness of the context of their practice",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Competence in professional action",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Family development",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "CPD is needed because of the need for development in areas like ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "transferable skills",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "effective management",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "assessment",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "all of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "The continuum of needs navigates between ___ needs and personal needs.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "national",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "international",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "cultural",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "institutional",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is true for 21st century learners?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "They are networkers and communicators",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "They lack tech savviness",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "They are rigid and stagnant",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "They ignore the various forms of media",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Faculty members throughout their careers should ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "never go back to being students again",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "focus extensively only on academics while research can be ignored",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "focus extensively only on research while teaching can be ignored",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "continuously relearn from experiences",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "A 21st century educator acts as a ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "mentor",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "referee",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "moderator",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "all of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Dewey’s 'How We Think' gives a five stage model of ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Creative Thinking",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Reflective Thinking",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Emotional Intelligence",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Spiritual Thinking",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "___ theory is given by David Kolb.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Constructivism",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Experiential learning",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Johari window",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Reflective practice",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  }
+]

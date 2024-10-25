@@ -1,0 +1,3863 @@
+[
+  {
+    "id": 0,
+    "question": "Which of the following statements is true?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Having extensive knowledge for future leaders is enough",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Future leaders only need to be skilled in the 21st century",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "21st century future leaders should strive to have spiritual wisdom",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "21st century future leaders need to be in politics",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "question": "To be a leader, one needs a specific official rank or status.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "True",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "False",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Which of the following statements is false?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "The central concept of leadership is influence",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Management is linked directly to a formal position and the authority that comes with it",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "The leadership process is intentional",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Management and leadership are one and the same thing",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Educational leadership is the 2nd most important factor next to ___",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "teachers’ salaries",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "students’ learning",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "students’ attendance",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "teachers’ health",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "The previous focus in the context of education and leadership has been on ___",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "instructional leadership",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "leadership for learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "happiness leadership",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "leadership for success",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Current aim of educational leadership is to ___",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "produce transformative leaders",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "build bureaucratic culture as a way of life",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "focus on financial gains",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "produce managers",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is an existing issue currently in educational leadership?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "providing a status driven vision",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "seeking funding agencies",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "getting infrastructural support",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "managing staff relationships",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "One of the challenges being faced in educational leadership is the tension in being the ___",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "teacher",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "admin",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "change agent",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "business agent",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "___ based training approaches often miss the key dimensions of leadership and hence need to include capabilities denoting a dynamic capacity.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "power",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "competency",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "diversity",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "personality",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "The PRES model is a model of ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "charismatic leadership",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "authoritative leadership",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "authentic leadership",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "bureaucratic leadership",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Professional Development ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "is a static process",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "spans throughout one’s career",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "is independent of the work environment & role‐perception relationship",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "does not cater to the phase of retirement",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "CPD should focus on ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "conferences and seminars",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "guided and formal learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "only activities catering to work",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "salaries",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "Professional Education is concerned with 3 main aspects of development. Which of the following is not one of them?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Professional knowledge base",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Development of reflection, a critical awareness of the context of their practice",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Competence in professional action",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Family development",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "CPD is needed because of the need for development in areas like ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "transferable skills",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "effective management",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "assessment",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "all of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "The continuum of needs navigates between ___ needs and personal needs.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "national",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "international",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "cultural",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "institutional",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is true for 21st century learners?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "They are networkers and communicators",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "They lack tech savviness",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "They are rigid and stagnant",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "They ignore the various forms of media",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "Faculty members throughout their careers should ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "never go back to being students again",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "focus extensively only on academics while research can be ignored",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "focus extensively only on research while teaching can be ignored",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "continuously relearn from experiences",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "A 21st century educator acts as a ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "mentor",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "referee",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "moderator",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "all of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Dewey’s 'How We Think' gives a five stage model of ___ .",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Creative Thinking",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Reflective Thinking",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Emotional Intelligence",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Spiritual Thinking",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "___ theory is given by David Kolb.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Constructivism",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Experiential learning",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Johari window",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Reflective practice",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Professional ethics in education are a set of dignified principles put into practice by the ___",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "teachers",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "administrative staff",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "education ministers",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "students",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is a core value of the teaching profession according to the General Teaching Council of Northern Ireland?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Discipline",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Anger management",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Tolerance",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Obedience",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is true about the code of professional practice?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "should be updated once in 20 years",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "should be updated based on interests of the ruling political party",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "should be obligatory for every student as a public servant",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "should be updated based on changing societal needs",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Each teacher has an obligation to ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Exercise leadership in their role as supervisors",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Protect students from harm & unfairness",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Act with probity in their daily work activities and decision-making",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Teachers should not divert from their goals and hence avoid contributing to discussions on review and revisions of policies.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "True",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "False",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Academic fraud and illegal fees for admission highlight the issue of ___ in the education and teaching sector.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "privatization",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "absenteeism",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "corruption",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "outdated teacher education curriculum",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is not an aspect of political interference as an ethical challenge in the realm of education today?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "favoritism",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "low quality teaching",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "nepotism",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "transfer misconduct",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "The code of ethics ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "should be treated as a living document with wide applications",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "is intended to be difficult to follow",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "is a social tool to solve social dilemmas",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "is present for only the profession of teaching",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "The process of ethical teaching should ___",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "continue for 7 years",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "begin from pre‐service studentship",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "begin with the first government job",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "end 5 years before retirement",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "According to the Australian Education and Training Department, Canberra in 2006, the teachers’ Code of Professional Practice is to be based on ___ principles.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "four",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "seven",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "five",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "three",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "According to the ability model, emotional intelligence consists of ___ abilities.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "five",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "four",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "three",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "seven",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "The ability model considers emotions as sources of ___ which help individuals respond appropriately to the social context.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "information",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "inspiration",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "happiness",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "social security",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "The ability of ___ refers to the ability to detect & read emotions in self.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "managing emotions",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "understanding emotions",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "using emotions",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "perceiving emotions",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "Daniel Goleman has given the ___ model of emotional intelligence?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "ability",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "mixed",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "leadership",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "personality",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "___ is the ability to put oneself in others’ shoes and understand their emotions.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Emotional regulation",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Self-awareness",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Emotional labor",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Empathy",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "___ leadership style demands compliance.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "affiliative",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "democratic",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "coercive",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "coaching",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "‘Come with me’ is the message given by ___ leadership style.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "coaching",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "authoritative",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "democratic",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "affiliative",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Idealized influence and intellectual stimulation are intelligence traits of ___ leadership.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "transformational",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "emotional",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "social",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "transactional",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "There are two types of emotional regulation, ___ focused and ___ focused.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "deep, surface",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "sympathy, empathy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "antecedent, response",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "process, outcome",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "___ is a process by which emotions shared across a group in a social context.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Emotional regulation",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Emotional labour",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Emotional contagion",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Emotional intelligence",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is true regarding goals for diversity?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Freedom from ethnocentric stereotypes or biases by educational leaders",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Achieving a skewed and biased profile of staff & students",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Gender balance to be avoided",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Leaders’ commitment to equity",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is a dimension of cultural awareness?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Masculinity and femininity values",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Uncertainty avoidance",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Long term or short term orientations",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "There are two types of diversity: ___ and ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "structural and interactional",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "societal and institutional",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "infrastructural and informational",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "structural and functional",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "The impact of each type of diversity is complementary to & enhanced by the presence of the others.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "True",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "False",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Three major categories of engagements such as citizenship engagements, cultural engagement & compatibility of difference characterize ___ outcomes.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "social",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "individual",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "democracy",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "___ outcomes measure aspects like the students’ satisfaction and perception of campus climate.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "wellbeing",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "cultural",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "process",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "value",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Colleges & universities now‐a‐days are struggling with new changing forces. Which of the following is one of them?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "confronting younger & techno‐savvy as well as older & career‐driven students",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "unprecedented competition in the job market",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "accountability, & affordability in the global context",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "text": "all of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Growing trends and transformations like virtual universities are a result of ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "globalization",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "privatization",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "institutionalization",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "none of the given",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Which of the following statements is not true?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "The per capita increase in state funding has triggered a pressure for universities & technical education institutes to generate new sources of income",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Many countries are visualizing the rapid expansion of higher education as the key to their transition of status from developing to developed nations",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Considerable variation among the countries on the extent to which funding for higher education & research comes from government, charitable or business sources",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Due to the dramatic rise in aspiration & participation in higher education, increased pressure has been created on funding of higher education institutions",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Which of the following is not one of the components of the Five point Framework for policy & practice of Inclusion?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Content",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Finance",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Staffing",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Infrastructure",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Which of the following is not one of the reasons for the question of ‘why educational research’?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Intuitive thinking",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Accountability",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Development",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Effectiveness",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is not one of the purposes of educational research?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "emotional",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "descriptive",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "explanatory",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "evaluation",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Which of the following statements is true?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Correlation means causation",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Causal research objective is to determine how a process is taking place",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Causal research is the most superior type of research",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Proving causality is difficult in social science and hence focuses on probability of occurrence",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "To establish a causal relationship,",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "A clear rationale should be present to study the variables",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "cause must have occurred after the effect",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "changes in the value of independent variable must be accompanied by the changes in the value of confounding variable",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "it must be established that there is another explanation for the change in dependent variable in addition to the causal factor being studied",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Which of the following is not true regarding a problem?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "The problem should state a relation between variables",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "The problem variables should be operationally defined & feasible",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "A scientific problem should contain implications for testing",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Problem should be stated in an ambiguous form",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Action research is important because it ___",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Promotes reflective/innovative teaching",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Verifies what methods work",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Enables teachers to become change agents",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "The following factors affect doctoral research, except ___",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Political intervention & funding sources",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Employer demands",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Prioritization of the parents’ experience",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Massification of higher education",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "___ a continuous process of unlearning, learning, relearning, reflection & evaluation.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Conservational pedagogy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Continuous pedagogy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Consequential pedagogy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Critical pedagogy",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "New pedagogies require students to create new knowledge & connect it to the world by using the power of ___",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "political ideologies",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "cultural practices",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "spiritual wisdom",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "digital tools",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "question": "Which of the following is not a deep learning goal?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Engage systems in collective effort to mobilize deep learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Capture & cultivate old pedagogies that hamper deep learning",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Identify deep learning work",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Operationalize, refine & validate measures for deep learning",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "The 21st Century’s knowledge – based economy & knowledge society need to bring transformational innovation in education through the following except ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "21st century’s skill – based curricula",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "innovative assessment tools",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "techno‐based & learner centered pedagogy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "increasing difficulty of entrance tests",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Which of the following statements is not true for the new paradigms of education?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "advocates for “No child left behind” Act",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "recommends for personalized learning assistance",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "aims to make education more authority and administration centric",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "advocates for quality education to all",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "The process in which a tutor or facilitator simplifies elements of tasks to make them within reach of learners to bridge their current knowledge to more sophisticated learning stage is called ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Scaffolding",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Metacognition",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Self-regulated learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Intuitive learning",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Metacognition occurs ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "before the cognitive event",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "after the cognitive event",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "along with the cognitive event",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "can occur before, after or along the cognitive event",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "Under the principles for designing cognitive apprenticeship environments, ___ method refers to the one where teacher enables students to compare their performance with others.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "exploration",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "coaching",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "modeling",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "reflection",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Under the principles for designing cognitive apprenticeship environments, ___ aspect of content refers to the general approaches for directing one’s solution process.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "domain knowledge",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "heuristic strategies",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "learning strategies",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "control strategies",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Which of the following statements is not true for experiential learning?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "can be based on both real work and life experiences",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "does not apply to soft skills",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "can be based on structured experiences that simulate or approximate real life",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "can be used for all domains",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "___ is the extent to which team members’ personal benefits & costs depend on successful goal attainment by other members.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Outcome interdependence",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Group potency",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Constructive conflict",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Psychological safety",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Problem based learning processes stimulate students’ intrinsic interest in the subject matter through various components. Which of the following is not one of them?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Theory building",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Cumulative reasoning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Recall of information",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Cognitive conflicts leading to conceptual rigidity",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 710,
+    "question": "Which of the following statements is not true for Mobile-assisted Seamless Learning?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "It is cross time & locations",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "It encompasses only the digital world and not the physical world",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "There is a ubiquitous access to learning resources",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "It combines the use of multiple device types like tablets and phones",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Choose the statement that is not true",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Effective leadership decides more than it demonstrates",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Leadership is about motivating people to work together",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Leadership is about energizing team members to make good decisions",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Effective leadership connects more than it controls",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Turnaround leaders actively invite people to join & identify with the ___ framework to move ahead.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "steered ability",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "steered intelligence",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "steered engagement",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "steered control",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is a characteristic of turnaround leaders?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "They listen with a “menu” of what has been done elsewhere to successfully address the focus area for improvement",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "They reach out to those who will make a desired change",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "They listen carefully to the protestors and aim to remove roadblocks",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "All of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Turnaround leaders take three critical roles. Which of the following is not one of them?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Role model",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Teacher",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Learner",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Bestfriend",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "___ leadership works best in higher education as it models what effective teachers do to help students learn.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Bureaucratic",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Authoritarian",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Laissez-faire",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Collaborative",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Which of the following capabilities is not a given dimension of the ‘Turnaround Academic Leadership Capability Framework’?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Personal",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Interpersonal",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Cognitive",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Spiritual",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Educational Entrepreneurship has 3 crucial roles. Which of the following is one of them?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Co-opetitions",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Politicians",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Family",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Bureaucrat",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Which of the following is not a sub-domain of knowledge in the ‘Entrepreneurship Competencies Model’?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Self-insight",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Perseverance",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Declarative knowledge",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Mental models",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "___ refers to the self-belief in one’s capabilities.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Self compassion",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Perseverance",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Gratitude",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Self-efficacy",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 810,
+    "question": "Self–discipline, self–regulation, tenacity, and delayed gratification all highlight ___ in the Academic Entrepreneurship‐cum‐Performance Model.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Academic perseverance",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Social skills",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Learning strategies",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Classroom context",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "Which of the following statements is true?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Education reflects only the present",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Education only anticipates the future",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Education only reflects the past",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Education both reflects what is now and anticipates what is next",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "Education both reflects what is now and anticipates what is next"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "The ___ approach is a combination of synchronous and asynchronous teaching and learning modality",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "mixed",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "synthetic",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "synchronized",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "blended",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "blended"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "Students learning at their own pace in different times and spaces is ___ learning.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Blended",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Synchronous",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Focused",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Asynchronous",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "Asynchronous"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Learning outcomes in the form of ___ are the major measures of the teaching and learning in basic education.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "knowledge",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "skills",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "attitudes",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "all of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "all of the given"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "Which of the following was not a teacher’s role in the new normal?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "should be available online at all times to address the queries",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "must ignore students who choose to not participate",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "must initiate virtual learning activities",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "must focus on customized problem solving based on individual needs",
+        "isCorrect": false,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "B",
+        "text": "must ignore students who choose to not participate"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "The 3Cs in the context of pedagogy for the new normal includes the following dimensions except ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "consistency",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "community",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "creativity",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "competition",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "competition"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "___ is a state of being absorbed in a task.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "flow",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "exploration",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "drain",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "optimism",
+        "isCorrect": false,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "A",
+        "text": "flow"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "Which of the following is not a phase of the 5E framework of online flipped classes?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "explore",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "explain",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "elaborate",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "excite",
+        "isCorrect": true,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "D",
+        "text": "excite"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "___ is an approach to teaching and learning that creates feedback which is then used to improve students’ performance.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Assessment for learning",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Action for learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Feedback for learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Attention for learning",
+        "isCorrect": false,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "A",
+        "text": "Assessment for learning"
+      }
+    ]
+  },
+  {
+    "id": 910,
+    "question": "Which of the following is not a characteristic of summative assessment?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Highly specific and individual",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Highly structured and rigid",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Knowledge and comprehension learning is emphasized",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Conducted after instruction",
+        "isCorrect": false,
+        "image": ""
+      }
+    ],
+    "score": 1,
+    "acceptedAnswers": [
+      {
+        "option": "A",
+        "text": "Highly specific and individual"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Pedagogy means the understanding of the science and practice of ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "children learning",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "adult learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "women learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "men learning",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "question": "The term ‘andragogy’ is most closely associated with___, an educator who had a massive impact on the field.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "John Watson",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Piaget",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Vygotsky",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Malcolm Knowles",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "question": "Which of the following is not one of the seven principles of andragogy?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "mentorship",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "self-direction",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "motivation",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "memory",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "question": "According to Andragogy’s principles, transformation means that students are ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "having an open mind about new ideas and perspectives",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "empowered and responsible for their learning outcomes",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "encouraged to take part in meaningful experiences outside of traditional classroom settings",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "encouraged to adapt their learning styles and approach in order to meet the needs of a particular course or program",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "question": "___ theory states that adult learning is all about making practical sense of learning experiences.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Experiential learning",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Constructivist",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Behavioral reinforcement",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Cognitive",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "question": "The solution for the learning need of knowledge is ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "transferable skills",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "learner-analytics",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "just-in-time learning",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "social learning environment",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "question": "The best micro-learning content is ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "of 20 minutes",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "focused on 4-5 concepts",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "of 9-10 minutes",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "less than 6 minutes",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "question": "___ refers to our desire to be self-directed.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "autonomy",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "mastery",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "purpose",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "perseverance",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Heutagogy is also called___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "self-determined learning",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "self-focused learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "self-efficacy learning",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "self-growth learning",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "question": "In ___ learning, students do more than think deeply about a problem and their actions to solve it; they reflect on the problem-solving process.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "lifelong",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "continuing",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "double-loop",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "single-loop",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "question": "NEP 2020 is an attempt to bring out ___ in educators and learners.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "self-restraint",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "reflexivity",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "self-efficacy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "criticism",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "question": "NEP 2020 is taking various steps to fulfill its goals by focusing on ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "why to learn",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "when to learn",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "who should learn",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "how to learn",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "question": "The New Education Policy recommended a new structure of ___ for school education.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "5+2+4+2",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "5+3+2+4",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "5+3+3+4",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "5+3+3+3",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "question": "All undergraduate and postgraduate admissions of public HEIs are based on NTA scores conducted at the national level.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "CFA",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "CBSE",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "AICTE",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "NTA",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "question": "According to NEP 2020, undergraduate programs are of four years with a provision to exit after one year with a ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "diploma",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "advanced diploma",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "pass degree",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "project based degree",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "question": "Four years of Bachelor degree holders can now directly admit to Ph.D. program without Masters degree.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "True",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "False",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "question": "One of the fundamental principles of NEP 2020 is a ___ regulatory framework.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "light but tight",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "light but not tight",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "fast and heavy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "heavy but slow",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "question": "Which of the following is not a fundamental principle of NEP 2020?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "full equity and inclusion as the cornerstone of all educational decisions",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "facilitation of true philanthropic participation",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "a rootedness and pride in India and its rich culture",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "promoting monolingualism and the power of language in teaching and learning",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "question": "___ education is a philosophy of higher education that integrates introspection and experiential learning into academic study.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Conducive",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Competitive",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Contemplative",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Constructive",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 1110,
+    "question": "___ is the ability to navigate and shift in a healthy way one’s thoughts, emotions, and behaviors in order to make decisions and reach goals that benefit oneself and others.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "self-efficacy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "self-insight",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "flow",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "self-management",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "question": "The Sustainable Development Goals (SDGs), were adopted by all United Nations Member States in 2015 as a universal call to action to end poverty, protect the planet and ensure that all people enjoy peace and prosperity by ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "2030",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "2020",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "2025",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "2023",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "question": "There are ___ number of SDGs.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "17",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "15",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "20",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "13",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "question": "Sustainable development was the solution to the problems of environmental degradation discussed by the ___ in the 1987 report Our Common Future.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Millennium Commission",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "International Commission",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "United Nations Commission",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Brundtland Commission",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Poverty can be defined as a lack of ___ which renders it impossible or challenging for human beings to live with dignity and provide for themselves.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "only money",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "only vital resources",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "neither money nor vital resources",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "money and/or vital resources",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "question": "___ is an alarm signal sent by the body when the stomach is empty and the blood sugar level decreases.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Nutrition",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "Nourishment",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Hunger",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Malnutrition",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "question": "Which of the following is not one of the steps being taken or aimed at to fulfill SDG goal 2?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "promoting sustainable agriculture",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "supporting small-scale farmers",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "international cooperation to ensure investment in infrastructure and technology",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "promoting use of pesticides and insecticides for crop increase",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "question": "SDG Goal 5 concerns with ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "zero hunger",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "gender equality",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "clean water and sanitation",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "affordable and clean energy",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "question": "Safe and affordable drinking water for all requires we ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "harvest in adequate infrastructure",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "provide sanitation facilities",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "encourage hygiene",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "all of the given",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "question": "The rapid growth of cities is a result of rising population and ___.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "increasing migration",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "increasing emigration",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "increasing global warming",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "increasing literacy",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 1210,
+    "question": "Which of the following is not a core competency of sustainability leadership?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "systems thinking",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "social innovation",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "sustainability literacy",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "passive values",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  }
+]
