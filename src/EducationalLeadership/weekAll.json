@@ -2985,7 +2985,7 @@
       {
         "id": 1,
         "text": "mentorship",
-        "isCorrect": true,
+        "isCorrect": false,
         "image": ""
       },
       {
@@ -3003,7 +3003,7 @@
       {
         "id": 4,
         "text": "memory",
-        "isCorrect": false,
+        "isCorrect": true,
         "image": ""
       }
     ]
